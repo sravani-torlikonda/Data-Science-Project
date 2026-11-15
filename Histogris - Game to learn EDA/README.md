@@ -53,20 +53,9 @@ You have 3 hearts per level. Wrong decisions cost a heart. **Relaxed pace** (top
 - Level data is simulated from realistic distributions with a seeded random generator, so each level plays the same every time.
 - Progress is saved in the browser (localStorage), per player.
 
-## Playtesting and evidence of learning
-
-- The game records warm-up and final test scores, per-level checks, tries, time and mistakes by type.
-- **Main menu → My results** shows them, and **Copy results** copies one row to paste into a spreadsheet. **New player (reset)** clears progress for the next tester.
-- `playtest/histogris_playtest_form.gs` builds the 8-question Google Form and a results sheet that computes each player's gain. Paste it into script.google.com and run `createPlaytestForm`.
-
 ## Repository
 
 ```
 index.html                           the game
 README.md                            this file
-playtest/histogris_playtest_form.gs  Google Form builder for playtests
 ```
-
-## Course
-
-Made for the Data Science course game project (Part B: game for learning data science concepts).
