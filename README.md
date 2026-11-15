@@ -1,5 +1,14 @@
 # IPL Auction Price Prediction: Is This Player Worth His Auction Money?
 
+## Team Members
+
+
+| Name | Roll Number |
+|---|---|
+| K Mani Sukruthaa | EC24B1030 |
+| T Sravani | EC24B1036 |
+| Sowmya Sree T K | EC24B1084 |
+
 **Question:** Can we predict how much an IPL team will pay for a player at the auction, using only
 what is known before the auction (base price, nationality and his past IPL performance), and use
 the model to spot the most overpaid players and the biggest bargains?
