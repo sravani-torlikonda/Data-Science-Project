@@ -58,4 +58,5 @@ You have 3 hearts per level. Wrong decisions cost a heart. **Relaxed pace** (top
 ```
 index.html                           the game
 README.md                            this file
+Game_Report.pdf                      report
 ```
