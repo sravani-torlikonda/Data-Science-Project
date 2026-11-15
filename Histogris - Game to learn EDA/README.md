@@ -2,7 +2,7 @@
 
 A falling-block browser game that teaches **Exploratory Data Analysis (EDA)** to someone with zero data science background. Data values fall as blocks; you sort them into histogram columns and make the same calls an analyst makes: which bin, keep or remove, drop or fill, how many bins.
 
-**Play it:** https://sravani-torlikonda.github.io/ipl-auction-price-prediction./Histogris%20-%20Game%20to%20learn%20EDA/histogris.html
+**Play it:** https://sravani-torlikonda.github.io/ipl-auction-price-prediction./Histogris%20-%20Game%20to%20learn%20EDA/
 
 A full run of 5 levels takes about 15 minutes, followed by an endless mode. It works on laptops and phones, with no install or login.
 
